@@ -1,3 +1,3 @@
 varibale = 5
 varible2 = 10
-print(varible2)
+print(varibale+ varible2)
